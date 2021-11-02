@@ -1,3 +1,9 @@
 team_id,method
 1,refill
 2,reset
+3,refill
+4,rollover
+5,refill
+6,reset
+7,refill
+99,rollover
