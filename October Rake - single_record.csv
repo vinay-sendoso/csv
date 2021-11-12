@@ -1,0 +1,2 @@
+activity_transaction_id,updated_at,type,value,value_was,status,gift_charge,note_charge,packaging_charge,pick_pack_charge,shipping_charge,total_charge,undeliverable_charge
+3193798,2021-10-27 17:18:42,updated,shipped,shipped,shipped,0,600,1075,150,1082,2907,0
