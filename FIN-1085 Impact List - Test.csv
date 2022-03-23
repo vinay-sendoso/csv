@@ -1,0 +1,2 @@
+payment_history_log_id,payer_type,payer_id,receiver_type,receiver_id,created_at,amount
+6819522,ActivityTransaction,4718182,FundingSource,5846,44600.02929,32
